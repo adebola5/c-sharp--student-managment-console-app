@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\bin\Debug\net10.0\StudentListSystemClasses.exe
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\bin\Debug\net10.0\StudentListSystemClasses.deps.json
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\bin\Debug\net10.0\StudentListSystemClasses.runtimeconfig.json
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\bin\Debug\net10.0\StudentListSystemClasses.dll
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\bin\Debug\net10.0\StudentListSystemClasses.pdb
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\obj\Debug\net10.0\StudentListSystemClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\obj\Debug\net10.0\StudentListSystemClasses.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\obj\Debug\net10.0\StudentListSystemClasses.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\obj\Debug\net10.0\StudentListSystemClasses.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\obj\Debug\net10.0\StudentListSystemClasses.dll
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\obj\Debug\net10.0\refint\StudentListSystemClasses.dll
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\obj\Debug\net10.0\StudentListSystemClasses.pdb
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\obj\Debug\net10.0\StudentListSystemClasses.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\c# files\StudentListSystemClasses\StudentListSystemClasses\obj\Debug\net10.0\ref\StudentListSystemClasses.dll
